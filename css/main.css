@@ -393,14 +393,11 @@ p {
 .fa-linkedin, .fa-futbol-o{
     color:white;
     font-size: 20px;
-    line-height: 45px;
-    width: 45px;
-    height: 45px;
-    text-align: center;
-    border:2px solid #fff;
+    line-height: 50px;
+    width: 50px;
+    height: 50px;
+   
+    border:2px solid white;
     border-radius: 100%;
     margin-right: 1%
 }   
-/*
- * Estilos de tu proyecto
- */
